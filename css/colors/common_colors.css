@@ -1,0 +1,313 @@
+/*--------------------------------------*/
+/* COMMON COLORS -----------------------*/
+/*--------------------------------------*/
+
+
+/* COLOR -------------*/
+/*--------------------------------------*/
+
+
+
+.close:hover .button_icon,            /* Close Button */
+.pagination_button:hover .pagination_button_text,     /* Pagination */
+.pagination_button.current .pagination_button_text,  /* Pagination */
+.mobile_nav_open:hover .button_icon,  /* Mobile Nav Open Button */
+.mobile_nav_close:hover .button_icon, /* Mobile Nav Close Button */
+.modal_close:hover .button_icon,      /* Modal Close Button */
+.cta_dark:hover,                      /* Call To Action Dark Button */
+.cta_light:hover,                     /* Call To Action Light Button */
+.footer_arrow:hover .button_icon,     /* Footer Arrow Button */
+.footer_arrow .button_icon,           /* Footer Arrow Button */
+#home,                                /* Home section */
+.counter_box,                         /* Counter Box */
+.item h6,                             /* Member Hover Effect */
+.item span,                           /* Member Hover Effect */
+#video_separator,                     /* Separator Video */
+.owl-item h6,                         /* Portfolio Hover Effect */
+.owl-item span,                       /* Portfolio Hover Effect */
+#parallax_separator h4,               /* Parallax separator */
+#message,                             /* Form */
+.alert_icon,                          /* Form */
+.arrow_right_v2:hover .button_icon,   /* Button Next */
+.arrow_left_v2:hover .button_icon,    /* Button Prev */
+.arrow_up_v2:hover .button_icon,      /* Button Up */
+.footer_content,                      /* Footer */
+#portfolio_single_fullwidth #title    /* portfolio single fullwidth title */
+
+
+{
+	color: white;
+}
+
+
+
+
+
+.button.mobile_nav_open,              /* Mobile Nav Open Button */
+.close.close_v1:hover,                /* Mobile Nav Close Button */
+.pagination_button_text,              /* Pagination */
+.md-content,                          /* Modal Window */
+.about_icon,                          /* About */
+.service_box_content h6,              /* Services grid */
+.post_excerpt,                        /* Blog */
+.post_excerpt a,                      /* Blog */
+.post_excerpt h3,                     /* Blog */
+.more_posts,                          /* Blog */
+#alert h4,                            /* Form */
+.unordered li p,                      /* Form */
+#elements_icons ul li .icon           /* Icons */
+
+{
+	color: black;
+}
+
+
+
+
+
+.arrow_right_v1:hover .button_icon,    /* Button Next */
+.arrow_left_v1:hover .button_icon,     /* Button Prev */
+.arrow_right_v2 .button_icon,          /* Button Next */
+.arrow_left_v2 .button_icon,           /* Button Prev */
+.arrow_up_v1:hover .button_icon,       /* Button Up */
+.arrow_up_v2 .button_icon,             /* Button Up */
+.cta_dark                              /* Call to Action - Dark */
+
+{
+	color:#2a2d2e;
+}
+
+
+
+
+
+.arrow_right_v1,                      /* Button Next */
+.arrow_left_v1,                       /* Button Prev */
+.arrow_up_v1,                         /* Button Up */
+.cbp-spmenu h3,                       /* Mobile Navigation */
+.cta_light,                           /* Call to Action - Light */
+.footer_arrow,                        /* Footer Arrow Button */
+.title_big,                           /* Intro section */
+.title_big_portfolio,                 /* Portfolio intro */
+.callout_box_intro h2,                /* Callout Box */
+.callout_box_text h5,                 /* Callout Box */
+.pricing_table_header span,           /* Pricing Table */
+input,                                /* Form */
+textarea,                             /* Form */
+#elements_buttons .buttons_light h5,  /* Elements - light buttons background*/
+#elements_buttons .buttons_light p,   /* Elements - light buttons background*/
+.cbp-spmenu a                         /* Mobile Navigation */
+
+{
+	color:#d3d3d3;
+}
+
+
+
+
+
+.social_icon                          /* Social icons */
+
+{
+	color:#d7d7d7;
+}
+
+
+
+p,
+#navigation ul li                     /* Desktop Navigation */
+
+{
+    color:#4c4c4c;
+}
+
+
+
+#nav_bar {
+    -moz-box-shadow: inset -0px -1px  #dbdbdb;
+	-webkit-box-shadow: inset -0px -1px #dbdbdb;
+	box-shadow: inset -0px -1px #dbdbdb;
+}
+
+
+
+
+
+
+
+/* Background -------------*/
+/*--------------------------------------*/
+
+
+
+#preloader,                           /* Preloader */
+.close,                               /* Close Button */
+.arrow_down,                          /* Home Arrow */
+.arrow_right_v1:hover,                /* Button Next */
+.arrow_left_v1:hover,                 /* Button Prev */
+.arrow_up_v1:hover,                   /* Button Up */
+#nav_bar,                             /* Desktop Navigation */
+#portfolio_single_work,               /* portfolio single */
+#subpage_blog .post_excerpt:hover,     /* Blog */
+#subpage_single_post .post_excerpt:hover     /* Single blog post*/
+{
+	background: white;
+}
+
+
+.cbp-spmenu,                          /* Mobile Navigation */
+.close.close_v1,                      /* Close Button */
+.title_big,                           /* Intro section */
+.title_big_portfolio,                 /* Portfolio intro */
+#callout_box_solid,                   /* Callout Box */
+.pricing_table_header,                /* Pricing Table */
+input,                                /* Form */
+textarea,                             /* Form */
+#elements_buttons .buttons_light,     /* Elements - light buttons background*/
+#comment_form                         /* Comment Form */
+{
+	background: #2a2d2e;
+}
+
+
+
+.close.close_v2,                      /* Close Button */
+.pagination_button,                          /* Pagination */
+.arrow_right_v2,                      /* Button Next */
+.arrow_left_v2,                       /* Button Prev */
+.arrow_up_v2,                         /* Button Up */
+.arrow_down:hover,                    /* Home Arrow */
+.mobile_nav_open,                     /* Mobile Nav Open Button */
+.button.modal_close,                  /* Mobile Nav Close Button */
+.portfolio_single_close,              /* Close Button */
+.dotstyle li a						  /* Nivo slider navigation */
+{
+	background: #d7d7d7;
+}
+
+
+
+
+
+.cbp-spmenu-vertical a:hover          /* Mobile Navigation */
+
+{
+    background-color:#383838;
+}
+
+
+
+
+
+.pricing_table_item,                  /* Pricing Table */
+.pricing_table_footer,                 /* Pricing Table */
+.tabs nav li.tab-current:before,
+.tabs nav li.tab-current:after
+
+{
+	background: #e8e8e8;
+}
+
+
+
+
+.pricing_table:hover .pricing_table_item,   /* Pricing Table */
+.pricing_table:hover .pricing_table_footer, /* Pricing Table */
+.post_excerpt:hover                         /* Blog */
+
+{
+	background:#f5f5f5;
+}
+
+
+#message.warning {
+	background:#ffc000;
+}
+
+
+
+
+#message.success {
+	background:#b3d237;
+}
+
+
+/* Border -------------*/
+/*--------------------------------------*/
+
+.arrow_right_v1:hover,               /* Button Next */
+.arrow_left_v1:hover,                /* Button Prev */
+.arrow_up_v1:hover                   /* Button Up */
+
+{
+	border-color:white;
+}
+
+.cta_dark                             /* Call to Action - Dark */
+
+{
+	border-color: #2a2d2e;
+}
+
+
+.arrow_right_v1,                      /* Button Next */
+.arrow_left_v1,                       /* Button Prev */
+.arrow_right_v2,                      /* Button Next */
+.arrow_left_v2,                       /* Button Prev */
+.arrow_up_v1,                         /* Button Up */
+.arrow_up_v2,                         /* Button Up */
+.cta_light,                           /* Call to Action - Light */
+.footer_arrow,                        /* Footer Arrow Button */
+.pricing_table_header p               /* Pricing Table */
+input,                                /* Form */
+textarea                              /* Form */
+
+{
+	border-color:#d3d3d3;
+}
+
+
+.cbp-spmenu-vertical a,               /* Mobile Navigation */
+#mobile_menu_content                  /* Mobile Navigation */
+
+{
+	border-color:#383838;
+}
+
+.service_boxes,                       /* Services grid */
+.service_box,                         /* Services grid */
+.tabs nav ul li,                      /* Tabs */
+.tabs nav li.tab-current,             /* Tabs */
+.tabs_content section,                /* Tabs */
+.accordion,                           /* Accordion */
+#elements_accordion,                  /* Accordion */
+.accordion-header,                    /* Accordion */
+.accordion-content,                   /* Accordion */
+#elements_progress_bars,              /* Progress Bars */
+#elements_alert_boxes,                /* Elements Subpage */
+#elements_tabs,                       /* Elements Subpage */
+#elements_social_icons,               /* Elements Subpage */
+#elements_custom_slider,              /* Elements Subpage */
+#elements_responsive_videos,          /* Elements Subpage */
+#elements_lists,					  /* Elements Subpage */
+#clients,                             /* Clients */
+.post_excerpt,                        /* Blog */
+#subpage_blog .post_excerpt,          /* Blog Subpage */
+#subpage_single_post .post_excerpt,   /* Single Post Subpage */
+.comment_box,						  /* Comments */
+.more_posts,                          /* Blog */
+.portfolio_single_details             /* Portfolio single separator */
+
+{
+	border-color: #e8e8e8
+}
+
+.arrow_right_v1,                      /* Button Next */
+.arrow_left_v1,                       /* Button Prev */
+.arrow_right_v2,                      /* Button Next */
+.arrow_left_v2                       /* Button Prev */
+
+
+{
+	border-color:#d7d7d7;
+}

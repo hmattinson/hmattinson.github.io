@@ -1,0 +1,82 @@
+/*--------------------------------------*/
+/* COLORS FOR THE TEMPLATE -------------*/
+/*--------------------------------------*/
+
+
+/* Active colors -------------*/
+/*--------------------------------------*/
+
+.spinner > div,                      /* Preloader */
+.close:hover,                        /* Close Button */
+.pagination_button:hover,            /* Pagination */
+.pagination_button.current,  		 /* Pagination */ 
+.mobile_nav_open:hover,              /* Mobile Nav Open Button */
+.close.close_v1:hover,               /* Mobile Nav Close Button */
+.close.close_v2:hover,               /* Modal Close Button */
+.cta_dark:hover,                     /* Call To Action Dark Button */
+.cta_light:hover,                    /* Call To Action Light Button */
+.footer_arrow:hover,                 /* Footer Arrow Button */
+.video_hover_solid,                  /* Separator Video */
+.arrow_right_v2:hover,               /* Button Next */
+.arrow_left_v2:hover,                /* Button Prev */
+.arrow_up_v2:hover,                  /* Button Up */
+.dotstyle-fillup li a::after,        /* Nivo slider navigation */
+#portfolio_single_fullwidth .slider-overlay,  /* fullwidth single page slider background */
+.progress_bar                        /* progress bars color */
+{
+	background: #f90706;   
+}
+
+
+a:not([class]):hover,                 /* Simple link */
+.close.close_v1,                      /* Close Button */
+a.button.arrow_down,                  /* Home Arrow Button */
+.button.mobile_nav_close,             /* Mobile Nav Close Button */
+#navigation li a:hover,               /* Desktop Nav hover */
+.mobile_nav_icon_open:hover,          /* Mobile Nav Button */
+.social_icon:hover,                   /* Social Icons Hover */
+.service_icon,                        /* Services Icon */
+.tab_icon,                            /* Tab Icon */
+.accordion_icon,                      /* Accordion Icon */
+.modal_text h6,                       /* Modal Box h6 */
+.pricing_table_header h6,             /* Pricing Table h6 */
+.contact_icon,                        /* Contact Icon */
+.counter_box span,                    /* Counter Box */
+ul.list1 li:before,					  /* List1 bullet */
+ul.list2 li:before,					  /* List2 bullet */
+ul.list3 li:before,					  /* List3 bullet */
+ol.list1 li:before,                   /* Ordered List1 bullet */
+ol.list2 li:before,                   /* Ordered List2 bullet */
+ol.list3 li:before                    /* Ordered List3 bullet */
+{
+	color: #f90706;         
+}
+
+
+li.active a                           /* Desktop Navigation */
+
+{
+	color: #f90706 !important;         
+}
+
+.progress_bar,                        /* progress bars color */
+.cta_dark:hover,                      /* Call To Action Dark Button */             
+.cta_light:hover,                     /* Call To Action Light Button */
+.footer_arrow:hover, 		          /* Footer Arrow Button */
+.item:hover > a::before,              /* Member Hover Effect */
+.owl-item:hover > a::before,          /* Portfolio Hover Effect */
+.arrow_right_v2:hover,                /* Button Next */
+.arrow_left_v2:hover,                 /* Button Prev */
+.arrow_up_v2:hover,                   /* Button Up */
+.dotstyle-fillup li a.active          /* Nivo slider navigation */
+{
+	border-color: #f90706; 
+}
+
+
+.item:hover > a::before,               /* Member Hover Effect */
+.owl-item:hover > a::before            /* Portfolio Hover Effect */
+
+{
+	background: rgba(249,7,6,.5);
+}
